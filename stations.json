@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": "s1",
+      "name": "إذاعة القرآن الكريم من القاهرة",
+      "url": "http://stream.radiojar.com/8s5u5tpdtwzuv",
+      "subtitle": "من القاهرة",
+      "badge": "مباشر",
+      "abbr": "Cai",
+      "country": "مصر",
+      "color": "#C09B66",
+      "enabled": true
+    },
+    {
+      "id": "s2",
+      "name": "إذاعة القرآن الكريم من القاهرة",
+      "url": "http://stream.radiojar.com/v33ay8543d0uv",
+      "subtitle": "من القاهرة",
+      "badge": "متأخر ساعة",
+      "abbr": "Cai",
+      "country": "مصر",
+      "color": "#C09B66",
+      "enabled": true
+    },
+    {
+      "id": "s3",
+      "name": "القرآن الكريم مصر",
+      "url": "http://stream.radiojar.com/htnudfgugm8uv",
+      "subtitle": "من مصر",
+      "badge": "مباشر",
+      "abbr": "Egy",
+      "country": "مصر",
+      "color": "#C09B66",
+      "enabled": true
+    },
+    {
+      "id": "s4",
+      "name": "إذاعة القرآن الكريم من السعودية",
+      "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+      "subtitle": "من السعودية",
+      "badge": "مباشر",
+      "abbr": "Sau",
+      "country": "السعودية",
+      "color": "#3A7558",
+      "enabled": true
+    },
+    {
+      "id": "s5",
+      "name": "إذاعة القرآن الكريم من السعودية",
+      "url": "http://stream.radiojar.com/4wqre23fytzuv",
+      "subtitle": "من السعودية",
+      "badge": "متأخر ساعة",
+      "abbr": "Sau",
+      "country": "السعودية",
+      "color": "#3A7558",
+      "enabled": true
+    },
+    {
+      "id": "s6",
+      "name": "قناة القرآن الكريم السعودية",
+      "url": "http://r7.tarat.com:8004/index.html/stream",
+      "subtitle": "من السعودية",
+      "badge": "مباشر",
+      "abbr": "Sau",
+      "country": "السعودية",
+      "color": "#3A7558",
+      "enabled": true
+    },
+    {
+      "id": "s7",
+      "name": "قناة السنة النبوية السعودية",
+      "url": "http://n0a.radiojar.com/dktga74wdd3vv",
+      "subtitle": "من السعودية",
+      "badge": "مباشر",
+      "abbr": "Sau",
+      "country": "السعودية",
+      "color": "#3A7558",
+      "enabled": true
+    },
+    {
+      "id": "s8",
+      "name": "قناة المجد السعودية",
+      "url": "http://r1.tarat.com:8196/index.html/stream",
+      "subtitle": "من السعودية",
+      "badge": "مباشر",
+      "abbr": "Sau",
+      "country": "السعودية",
+      "color": "#3A7558",
+      "enabled": true
+    },
+    {
+      "id": "s9",
+      "name": "إذاعة القرآن الكريم من الكويت",
+      "url": "http://r1.tarat.com:8200/stream",
+      "subtitle": "من الكويت",
+      "badge": "مباشر",
+      "abbr": "Kwt",
+      "country": "الكويت",
+      "color": "#4C7FA8",
+      "enabled": true
+    },
+    {
+      "id": "s10",
+      "name": "إذاعة القرآن الكريم من دبي",
+      "url": "http://uk5.internet-radio.com:8079/stream",
+      "subtitle": "من دبي",
+      "badge": "مباشر",
+      "abbr": "Dxb",
+      "country": "الإمارات",
+      "color": "#8A5A9E",
+      "enabled": true
+    },
+    {
+      "id": "s11",
+      "name": "إذاعة القرآن الكريم من قطر",
+      "url": "http://r1.tarat.com:8198/stream",
+      "subtitle": "من قطر",
+      "badge": "مباشر",
+      "abbr": "Qat",
+      "country": "قطر",
+      "color": "#9E4A5A",
+      "enabled": true
+    },
+    {
+      "id": "s12",
+      "name": "إذاعة القرآن الكريم من عمان",
+      "url": "http://r1.tarat.com:8206/stream",
+      "subtitle": "من عمان",
+      "badge": "مباشر",
+      "abbr": "Omn",
+      "country": "عمان",
+      "color": "#B8743A",
+      "enabled": true
+    },
+    {
+      "id": "s13",
+      "name": "قناة القرآن الكريم",
+      "url": "https://radio.alukah.net/quran",
+      "subtitle": "قناة القرآن",
+      "badge": "مباشر",
+      "abbr": "Qrn",
+      "country": "أخرى",
+      "color": "#1E8A5E",
+      "enabled": true
+    },
+    {
+      "id": "s14",
+      "name": "تلاوات خاشعة",
+      "url": "http://live.mp3quran.net:9992/",
+      "subtitle": "تلاوات متنوعة",
+      "badge": "مباشر",
+      "abbr": "Tlw",
+      "country": "أخرى",
+      "color": "#5A6E8A",
+      "enabled": true
+    },
+    {
+      "id": "s15",
+      "name": "إذاعة القرآن الكريم من تونس",
+      "url": "https://live.radioquran.tn/live",
+      "subtitle": "من تونس",
+      "badge": "مباشر",
+      "abbr": "Tun",
+      "country": "تونس",
+      "color": "#B5483C",
+      "enabled": true
+    },
+    {
+      "id": "s16",
+      "name": "إذاعة القرآن الكريم من البحرين",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+      "subtitle": "من البحرين",
+      "badge": "مباشر",
+      "abbr": "Bhr",
+      "country": "البحرين",
+      "color": "#3C8A9E",
+      "enabled": true
+    },
+    {
+      "id": "s17",
+      "name": "إذاعة القرآن الكريم من المغرب",
+      "url": "https://asmaki.ma:8000/radio.mp3",
+      "subtitle": "من المغرب",
+      "badge": "مباشر",
+      "abbr": "Mar",
+      "country": "المغرب",
+      "color": "#9E3A3A",
+      "enabled": true
+    },
+    {
+      "id": "s18",
+      "name": "إذاعة القرآن الكريم من الدوحة قطر",
+      "url": "https://live.kwikmotion.com/qmcquranradio2live/quranradio2/playlist.m3u8",
+      "subtitle": "من الدوحة",
+      "badge": "مباشر",
+      "abbr": "Doh",
+      "country": "قطر",
+      "color": "#7A4A9E",
+      "enabled": true
+    },
+    {
+      "id": "s19",
+      "name": "إذاعة القرآن الكريم من الشارقة",
+      "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+      "subtitle": "من الشارقة",
+      "badge": "مباشر",
+      "abbr": "Shj",
+      "country": "الإمارات",
+      "color": "#5A8A3A",
+      "enabled": true
+    },
+    {
+      "id": "s20",
+      "name": "إذاعة القرآن الكريم من فلسطين",
+      "url": "https://quran-radio.org:8899/;?type=http&nocache=29",
+      "subtitle": "من فلسطين",
+      "badge": "مباشر",
+      "abbr": "Pal",
+      "country": "فلسطين",
+      "color": "#2E7D4F",
+      "enabled": true
+    },
+    {
+      "id": "s21",
+      "name": "إذاعة القرآن الكريم من الجزائر",
+      "url": "https://webradio1.tda.dz:8001/Coran_64K.mp3",
+      "subtitle": "من الجزائر",
+      "badge": "مباشر",
+      "abbr": "Alg",
+      "country": "الجزائر",
+      "color": "#3A6EA5",
+      "enabled": true
+    },
+    {
+      "id": "s22",
+      "name": "إذاعة القرآن الكريم من ليبيا",
+      "url": "https://qrl.server.ly:8443/stream",
+      "subtitle": "من ليبيا",
+      "badge": "مباشر",
+      "abbr": "Lby",
+      "country": "ليبيا",
+      "color": "#8A7A2E",
+      "enabled": true
+    }
+  ]
+}
