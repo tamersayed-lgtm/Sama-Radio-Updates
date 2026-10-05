@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "stations": [
     {
       "id": "s1",
@@ -134,28 +134,6 @@
       "enabled": true
     },
     {
-      "id": "s13",
-      "name": "قناة القرآن الكريم",
-      "url": "https://radio.alukah.net/quran",
-      "subtitle": "قناة القرآن",
-      "badge": "مباشر",
-      "abbr": "Qrn",
-      "country": "أخرى",
-      "color": "#1E8A5E",
-      "enabled": true
-    },
-    {
-      "id": "s14",
-      "name": "تلاوات خاشعة",
-      "url": "http://live.mp3quran.net:9992/",
-      "subtitle": "تلاوات متنوعة",
-      "badge": "مباشر",
-      "abbr": "Tlw",
-      "country": "أخرى",
-      "color": "#5A6E8A",
-      "enabled": true
-    },
-    {
       "id": "s15",
       "name": "إذاعة القرآن الكريم من تونس",
       "url": "https://live.radioquran.tn/live",
@@ -241,6 +219,28 @@
       "abbr": "Lby",
       "country": "ليبيا",
       "color": "#8A7A2E",
+      "enabled": true
+    },
+    {
+      "id": "s13",
+      "name": "قناة القرآن الكريم",
+      "url": "https://radio.alukah.net/quran",
+      "subtitle": "قناة القرآن",
+      "badge": "مباشر",
+      "abbr": "Qrn",
+      "country": "أخرى",
+      "color": "#1E8A5E",
+      "enabled": true
+    },
+    {
+      "id": "s14",
+      "name": "تلاوات خاشعة",
+      "url": "http://live.mp3quran.net:9992/",
+      "subtitle": "تلاوات متنوعة",
+      "badge": "مباشر",
+      "abbr": "Tlw",
+      "country": "أخرى",
+      "color": "#5A6E8A",
       "enabled": true
     }
   ]
