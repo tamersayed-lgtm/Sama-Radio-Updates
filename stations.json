@@ -167,6 +167,17 @@
       "enabled": true
     },
     {
+      "id": "s24",
+      "name": "إذاعة القرآن الكريم من الأردن",
+      "url": "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8",
+      "subtitle": "من الأردن",
+      "badge": "مباشر",
+      "abbr": "Jor",
+      "country": "الأردن",
+      "color": "#C09B66",
+      "enabled": true
+    },
+    {
       "id": "s18",
       "name": "إذاعة القرآن الكريم من الدوحة قطر",
       "url": "https://live.kwikmotion.com/qmcquranradio2live/quranradio2/playlist.m3u8",
@@ -200,6 +211,17 @@
       "enabled": true
     },
     {
+      "id": "s23",
+      "name": "إذاعة القرآن الكريم من اليمن",
+      "url": "https://r.fm-radio.net/quran",
+      "subtitle": "من اليمن",
+      "badge": "مباشر",
+      "abbr": "Yem",
+      "country": "اليمن",
+      "color": "#006124",
+      "enabled": true
+    },
+    {
       "id": "s21",
       "name": "إذاعة القرآن الكريم من الجزائر",
       "url": "https://webradio1.tda.dz:8001/Coran_64K.mp3",
@@ -222,17 +244,6 @@
       "enabled": true
     },
     {
-      "id": "s13",
-      "name": "قناة القرآن الكريم",
-      "url": "https://radio.alukah.net/quran",
-      "subtitle": "قناة القرآن",
-      "badge": "مباشر",
-      "abbr": "Qrn",
-      "country": "أخرى",
-      "color": "#1E8A5E",
-      "enabled": true
-    },
-    {
       "id": "s14",
       "name": "تلاوات خاشعة",
       "url": "http://live.mp3quran.net:9992/",
@@ -241,6 +252,17 @@
       "abbr": "Tlw",
       "country": "أخرى",
       "color": "#5A6E8A",
+      "enabled": true
+    },
+    {
+      "id": "s13",
+      "name": "قناة القرآن الكريم",
+      "url": "https://radio.alukah.net/quran",
+      "subtitle": "قناة القرآن",
+      "badge": "مباشر",
+      "abbr": "Qrn",
+      "country": "أخرى",
+      "color": "#1E8A5E",
       "enabled": true
     }
   ]
