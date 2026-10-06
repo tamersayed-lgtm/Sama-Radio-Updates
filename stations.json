@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "shareUrl": "https://apk-downloader.software-samsaf.workers.dev/",
   "message": {
     "id": "m1",
@@ -207,7 +207,7 @@
     {
       "id": "s20",
       "name": "إذاعة القرآن الكريم من فلسطين",
-      "url": "http://islamicbulletin.site:8108/stream",
+      "url": "https://quran-radio.org:8899/;?type=http&nocache=29",
       "subtitle": "من فلسطين",
       "badge": "مباشر",
       "abbr": "Pal",
@@ -224,6 +224,17 @@
       "abbr": "Yem",
       "country": "اليمن",
       "color": "#006124",
+      "enabled": true
+    },
+    {
+      "id": "s25",
+      "name": "إذاعة القرآن الكريم من لبنان",
+      "url": "https://audio.osina.cloud:7987/stream",
+      "subtitle": "من لبنان",
+      "badge": "مباشر",
+      "abbr": "LBN",
+      "country": "لبنان",
+      "color": "#C09B66",
       "enabled": true
     },
     {
