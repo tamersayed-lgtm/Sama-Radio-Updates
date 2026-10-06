@@ -207,7 +207,7 @@
     {
       "id": "s20",
       "name": "إذاعة القرآن الكريم من فلسطين",
-      "url": "https://quran-radio.org:8899/;?type=http&nocache=29",
+      "url": "https://quran-radio.org:8899/;",
       "subtitle": "من فلسطين",
       "badge": "مباشر",
       "abbr": "Pal",
