@@ -1,6 +1,7 @@
 {
   "version": 4,
   "shareUrl": "https://apk-downloader.software-samsaf.workers.dev/",
+  "hijriAdjust": 0,
   "message": {
     "id": "m1",
     "text": "نسألكم الدعاء، بارك الله فيكم"
