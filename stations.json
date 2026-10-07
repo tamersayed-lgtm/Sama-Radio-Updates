@@ -10,7 +10,7 @@
     {
       "id": "s1",
       "name": "إذاعة القرآن الكريم من القاهرة",
-      "url": "http://stream.radiojar.com/8s5u5tpdtwzuv",
+      "url": "enc:s12XLFQjCerdFQ9jpVfd+JS4ZX7uxqF1DscFVv0gM+ci3EM2Jjwhqg==",
       "subtitle": "من القاهرة",
       "badge": "مباشر",
       "abbr": "Cai",
@@ -21,7 +21,7 @@
     {
       "id": "s2",
       "name": "إذاعة القرآن الكريم من القاهرة",
-      "url": "http://stream.radiojar.com/v33ay8543d0uv",
+      "url": "enc:s12XLFQjCerdFQ9jpVfd+JS4ZX7uxqF1DscFGL0mJ6tumRNxNXYhqg==",
       "subtitle": "من القاهرة",
       "badge": "متأخر ساعة",
       "abbr": "Cai",
@@ -32,7 +32,7 @@
     {
       "id": "s3",
       "name": "القرآن الكريم مصر",
-      "url": "http://stream.radiojar.com/htnudfgugm8uv",
+      "url": "enc:s12XLFQjCerdFQ9jpVfd+JS4ZX7uxqF1DscFBvp7M7Ywy1IlPH4hqg==",
       "subtitle": "من مصر",
       "badge": "مباشر",
       "abbr": "Egy",
@@ -43,7 +43,7 @@
     {
       "id": "s4",
       "name": "إذاعة القرآن الكريم من السعودية",
-      "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+      "url": "enc:s12XLFQjCerdFQ9jpVfd+JS4ZX7uxqF1DscFXvplP+M+nEw6JTwhqg==",
       "subtitle": "من السعودية",
       "badge": "مباشر",
       "abbr": "Sau",
@@ -54,7 +54,7 @@
     {
       "id": "s5",
       "name": "إذاعة القرآن الكريم من السعودية",
-      "url": "http://stream.radiojar.com/4wqre23fytzuv",
+      "url": "enc:s12XLFQjCerdFQ9jpVfd+JS4ZX7uxqF1DscFWvlkNLdkn0E7JTwhqg==",
       "subtitle": "من السعودية",
       "badge": "متأخر ساعة",
       "abbr": "Sau",
@@ -65,7 +65,7 @@
     {
       "id": "s6",
       "name": "قناة القرآن الكريم السعودية",
-      "url": "http://r7.tarat.com:8004/index.html/stream",
+      "url": "enc:s12XLFQjCeueSR5juhjbt5O+Zy63hL8iTsNECuttaLoiwUttIjImuapN",
       "subtitle": "من السعودية",
       "badge": "مباشر",
       "abbr": "Sau",
@@ -76,7 +76,7 @@
     {
       "id": "s7",
       "name": "قناة السنة النبوية السعودية",
-      "url": "http://n0a.radiojar.com/dktga74wdd3vv",
+      "url": "enc:s12XLFQjCfeZBkRwqR3G9pqweDrs2+I5BcFeCe8icqUyyBQ0Jw==",
       "subtitle": "من السعودية",
       "badge": "مباشر",
       "abbr": "Sau",
@@ -87,7 +87,7 @@
     {
       "id": "s8",
       "name": "قناة المجد السعودية",
-      "url": "http://r1.tarat.com:8196/index.html/stream",
+      "url": "enc:s12XLFQjCeuYSR5juhjbt5O+Zy63hbYgTsNECuttaLoiwUttIjImuapN",
       "subtitle": "من السعودية",
       "badge": "مباشر",
       "abbr": "Sau",
@@ -98,7 +98,7 @@
     {
       "id": "s9",
       "name": "إذاعة القرآن الكريم من الكويت",
-      "url": "http://r1.tarat.com:8200/stream",
+      "url": "enc:s12XLFQjCeuYSR5juhjbt5O+Zy63hr8mTtleHOt0Kw==",
       "subtitle": "من الكويت",
       "badge": "مباشر",
       "abbr": "Kwt",
@@ -109,7 +109,7 @@
     {
       "id": "s10",
       "name": "إذاعة القرآن الكريم من دبي",
-      "url": "http://uk5.internet-radio.com:8079/stream",
+      "url": "enc:s12XLFQjCezCUkRrpg3K6560fjn91et/DoRJAeMvfuJhlQgxJTQxvaY=",
       "subtitle": "من دبي",
       "badge": "مباشر",
       "abbr": "Dxb",
@@ -120,7 +120,7 @@
     {
       "id": "s11",
       "name": "إذاعة القرآن الكريم من قطر",
-      "url": "http://r1.tarat.com:8198/stream",
+      "url": "enc:s12XLFQjCeuYSR5juhjbt5O+Zy63hbYuTtleHOt0Kw==",
       "subtitle": "من قطر",
       "badge": "مباشر",
       "abbr": "Qat",
@@ -131,7 +131,7 @@
     {
       "id": "s12",
       "name": "إذاعة القرآن الكريم من عمان",
-      "url": "http://r1.tarat.com:8206/stream",
+      "url": "enc:s12XLFQjCeuYSR5juhjbt5O+Zy63hr8gTtleHOt0Kw==",
       "subtitle": "من عمان",
       "badge": "مباشر",
       "abbr": "Omn",
@@ -142,7 +142,7 @@
     {
       "id": "s15",
       "name": "إذاعة القرآن الكريم من تونس",
-      "url": "https://live.radioquran.tn/live",
+      "url": "enc:s12XLB02CbbFDhxn5gvO/Zm+e2H91eE4FcQFAudjIw==",
       "subtitle": "من تونس",
       "badge": "مباشر",
       "abbr": "Tun",
@@ -153,7 +153,7 @@
     {
       "id": "s16",
       "name": "إذاعة القرآن الكريم من البحرين",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+      "url": "enc:s12XLB02CbacBF1g/kGcqMbjMyC8mvxiE89LA+J6Jbl4wkI2fio9qq4PtUk3gmHKakrgCLCxaeevr+iuLj07HZxj4iJb0MCN6g8cuA==",
       "subtitle": "من البحرين",
       "badge": "مباشر",
       "abbr": "Bhr",
@@ -164,7 +164,7 @@
     {
       "id": "s17",
       "name": "إذاعة القرآن الكريم من المغرب",
-      "url": "https://asmaki.ma:8000/radio.mp3",
+      "url": "enc:s12XLB02CbbIFAdjoxCB9JHrMiS/hKBkAM5DAaB4NuE=",
       "subtitle": "من المغرب",
       "badge": "مباشر",
       "abbr": "Mar",
@@ -175,7 +175,7 @@
     {
       "id": "s24",
       "name": "إذاعة القرآن الكريم من الأردن",
-      "url": "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8",
+      "url": "enc:s12XLB02CbbDFR505RXG75X/b2bs0OE4D89eQeRnNLMyxUhtIDMmvaVSukosnS3Rb0vmSfCzLOk=",
       "subtitle": "من الأردن",
       "badge": "مباشر",
       "abbr": "Jor",
@@ -186,7 +186,7 @@
     {
       "id": "s18",
       "name": "إذاعة القرآن الكريم من الدوحة قطر",
-      "url": "https://live.kwikmotion.com/qmcquranradio2live/quranradio2/playlist.m3u8",
+      "url": "enc:s12XLB02CbbFDhxn5hLY8Ju8ZWDm2+E4AsVHQf94JaMj3kYsIycwtaQSt0czl3TJflzoCe/hPbjtrJi/LjBtAZlx72BfkMGb",
       "subtitle": "من الدوحة",
       "badge": "مباشر",
       "abbr": "Doh",
@@ -197,7 +197,7 @@
     {
       "id": "s19",
       "name": "إذاعة القرآن الكريم من الشارقة",
-      "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+      "url": "enc:s12XLB02CbbaERksoQ3Y9oK6eXfr2qF4BN4FHeN2N6ckzUkuODAx87pVqU8rgDrcYkHlDuvldrjh+9SuMSU6DIVm8iE=",
       "subtitle": "من الشارقة",
       "badge": "مباشر",
       "abbr": "Shj",
@@ -208,7 +208,7 @@
     {
       "id": "s20",
       "name": "إذاعة القرآن الكريم من فلسطين",
-      "url": "https://quran-radio.org:8899/;?type=http&nocache=29",
+      "url": "enc:s12XLB02CbbYEhhjplTd+JS4ZTrgxugsWZITV6EueaYv3EJ/OTIgrO1OtE0kkTPdNhyw",
       "subtitle": "من فلسطين",
       "badge": "مباشر",
       "abbr": "Pal",
@@ -219,7 +219,7 @@
     {
       "id": "s23",
       "name": "إذاعة القرآن الكريم من اليمن",
-      "url": "https://r.fm-radio.net/quran",
+      "url": "enc:s12XLB02CbbbSQxv5QvO/Zm+JHrqwKBnFNhLAA==",
       "subtitle": "من اليمن",
       "badge": "مباشر",
       "abbr": "Yem",
@@ -230,7 +230,7 @@
     {
       "id": "s25",
       "name": "إذاعة القرآن الكريم من لبنان",
-      "url": "https://audio.osina.cloud:7987/stream",
+      "url": "enc:s12XLB02CbbIEg5rp1fA6pm/azrs2OBjBZAdV7YiaaEi3kIjPA==",
       "subtitle": "من لبنان",
       "badge": "مباشر",
       "abbr": "LBN",
@@ -241,7 +241,7 @@
     {
       "id": "s21",
       "name": "إذاعة القرآن الكريم من الجزائر",
-      "url": "https://webradio1.tda.dz:8001/Coran_64K.mp3",
+      "url": "enc:s12XLB02CbbeAghwqR3G9sH/fnDumutsW5IaXr86Bb0kzUkdZ3If8qZQ6A==",
       "subtitle": "من الجزائر",
       "badge": "مباشر",
       "abbr": "Alg",
@@ -252,7 +252,7 @@
     {
       "id": "s22",
       "name": "إذاعة القرآن الكريم من ليبيا",
-      "url": "https://qrl.server.ly:8443/stream",
+      "url": "enc:s12XLB02CbbYFQYsuxzd75WjJHj2jrciVZkFHfpnI7M7",
       "subtitle": "من ليبيا",
       "badge": "مباشر",
       "abbr": "Lby",
@@ -263,7 +263,7 @@
     {
       "id": "s14",
       "name": "تلاوات خاشعة",
-      "url": "http://live.mp3quran.net:9992/",
+      "url": "enc:s12XLFQjCfXAEQ8spQmc6IWja3qh2upiW5MTV7w6",
       "subtitle": "تلاوات متنوعة",
       "badge": "مباشر",
       "abbr": "Tlw",
@@ -274,7 +274,7 @@
     {
       "id": "s13",
       "name": "قناة القرآن الكريم",
-      "url": "https://radio.alukah.net/quran",
+      "url": "enc:s12XLB02CbbbBg5rp1fO9YW6a3yh2upiTttfHO97",
       "subtitle": "قناة القرآن",
       "badge": "مباشر",
       "abbr": "Qrn",
