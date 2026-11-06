@@ -140,17 +140,6 @@
       "enabled": true
     },
     {
-      "id": "s15",
-      "name": "إذاعة القرآن الكريم من تونس",
-      "url": "enc:s12XLB02CbbFDhxn5gvO/Zm+e2H91eE4FcQFAudjIw==",
-      "subtitle": "من تونس",
-      "badge": "مباشر",
-      "abbr": "Tun",
-      "country": "تونس",
-      "color": "#B5483C",
-      "enabled": true
-    },
-    {
       "id": "s16",
       "name": "إذاعة القرآن الكريم من البحرين",
       "url": "enc:s12XLB02CbacBF1g/kGcqMbjMyC8mvxiE89LA+J6Jbl4wkI2fio9qq4PtUk3gmHKakrgCLCxaeevr+iuLj07HZxj4iJb0MCN6g8cuA==",
